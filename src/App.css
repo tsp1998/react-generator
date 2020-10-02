@@ -1,0 +1,14 @@
+.App {
+  /* display: flex; */
+}
+h1 {
+  flex: 1;
+}
+
+.container {
+  display: flex;
+}
+
+.code-container {
+  display: flex;
+}
